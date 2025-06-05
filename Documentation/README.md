@@ -50,7 +50,9 @@ Interactive visuals built in Power BI include:
 
 ## How to Run This Project
 
-1. **unzip the project folder** to your local machine.
+1. **Clone the repository** using Git, or **download and unzip** the project folder to your local machine:
+   ```bash
+   git clone https://github.com/YugashiniS441/Airbnb_NYC_Analysis.git
 
 2. Open the notebook file `airbnb_preprocessing_and_eda.ipynb` using:
    - **VS Code** (with Jupyter extension), or  
